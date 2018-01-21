@@ -1,18 +1,18 @@
 - skill:
-  name: Python & Django
-  level: 98%
+  name: Bootstrap
+  level: 70%
+- skill:
+  name: Laravel
+  level: 50%
 - skill:
   name: Javascript & jQuery
-  level: 98%
+  level: 30%
 - skill:
-  name: Angular
-  level: 98%
+  name: HTML & CSS
+  level: 70%
 - skill:
-  name: HTML5 & CSS
-  level: 95%
+  name: Programming in C
+  level: 50%
 - skill:
-  name: Ruby on Rails
-  level: 85%
-- skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Programming in C++
+  level: 50%
