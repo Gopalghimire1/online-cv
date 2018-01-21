@@ -14,15 +14,13 @@ baseurl: '/online-cv' #change it according to your repository name
 name: Gopal Ghimire
 tagline: Student
 pic: 20151117_112758.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Hello, My name is Gopal Ghimire. I live in Biratnagar, Nepal, actually belongs to Shankuwa-shava district. I am student of the 
+science of technology. The name of my college university is Purbanchal university school of engineering and technology(PUSET).
+I have no any job becouse i am still studying.'
 
 #sidebar links
 email: gopal.ghimire332@gmail.com
 phone: 9819356415
-facebook: 
 linkedin: gopal.ghimire332
 github: Gopalghimire1
 twitter: '@gopalghimire19'
